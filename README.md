@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-marshall&layout=compact&theme=vue-dark&langs_count=6">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-marshall&layout=compact&theme=light&langs_count=6">
 <br />
 
 ## key skills:
