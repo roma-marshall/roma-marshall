@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-marshall&layout=compact&theme=buefy&hide_border=true">
 
 <!--
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=roma-marshall&show_icons=true&theme=buefy&hide_title=true">
+-->
+
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-marshall&layout=compact&theme=light&langs_count=6">
 -->
 
