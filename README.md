@@ -24,7 +24,6 @@
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-    <code><img width="4%" src=""></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></code>
     <code><img width="4%" src="https://github.com/detain/svg-logos/blob/master/svg/v/vitejs.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
@@ -38,7 +37,11 @@
 <p align="center">
 
   <!-- Most Used Langs -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" taret="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" taret="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-marshall&layout=compact&theme=tokyonight&border_color=F86786&langs_count=8&custom_title=Most+Used+Languages&hide_border=false" 
+         width="33%" alt="Favorite Languages" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" taret="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-marshall&layout=compact&theme=buefy&border_color=F86786&langs_count=8&custom_title=Most+Used+Languages&hide_border=false" 
          width="33%" alt="Favorite Languages" />
   </a>
