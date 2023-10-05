@@ -17,6 +17,7 @@
   <p align="center">
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+    <code><img width="4%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/pinia.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
@@ -24,8 +25,9 @@
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
     <code><img width="4%" src="https://github.com/detain/svg-logos/blob/master/svg/v/vitejs.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
   </p>
 </details>
