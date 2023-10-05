@@ -1,4 +1,4 @@
-# Hi there 👋 <br /> I'm Frontend Developer with several years experience.
+# Hi there 👋 <br /> I'm Frontend Developer with several years experience
 
 
 <!--
@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+#
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&width=1050&lines=The+most+important+thing+is+to+be+able+to+distinguish+the+most+important+from+everything+else;Sometimes+%E2%80%9Cnothing%E2%80%9D+is+better+than+%E2%80%9Csomething%E2%80%9D;Everything+can+be+done+quickly.+Contrary+to+popular+belief%2C+work+is+either+done+quickly+and+well+or+long+and+badly)](https://git.io/typing-svg)
