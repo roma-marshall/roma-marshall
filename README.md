@@ -1,51 +1,72 @@
-# Hi there 👋 <br /> I'm Frontend Developer with several years experience
+![wavetop](https://user-images.githubusercontent.com/82146140/177695541-fbee7a11-8763-49a8-a520-416cc9a5b97c.svg)
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=10000&color=F86786&center=true&width=435&lines=%40roma-marshall" alt="@roma-marshall" /></a>
+</p>
 
-<!--
-**roma-marshall/roma-marshall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=500&size=22&duration=3000&pause=500&color=1D6685&center=false&multiline=true&width=650&height=140&lines=%24+whoiam;->+Frontend+Developer;->+Experienced+UI/UX+Designer;->+6++years+of+coding+experience;->+Open-Source+contributor" alt="Spotify GitHub Profile" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+  <summary><h2>🛠 Skills and Tools</h2></summary>
+  <p align="center">
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+    <code><img width="4%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/pinia.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+    <code><img width="4%" src="https://github.com/detain/svg-logos/blob/master/svg/v/vitejs.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
+  </p>
+</details>
 
+---
 
+<details open>
+<summary><h2>🔥 Stats</h2></summary>
+<p align="center">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-marshall&layout=compact&theme=buefy&hide_border=true">
+  <!-- Most Used Langs -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" taret="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-marshall&layout=compact&theme=tokyonight&border_color=F86786&langs_count=8&custom_title=Most+Used+Languages&hide_border=false" 
+         width="33%" alt="Favorite Languages" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" taret="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-marshall&layout=compact&theme=buefy&border_color=F86786&langs_count=8&custom_title=Most+Used+Languages&hide_border=false" 
+         width="33%" alt="Favorite Languages" />
+  </a>
 
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=roma-marshall&show_icons=true&theme=buefy&hide_title=true">
--->
+  <!-- Github Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=roma-marshall&show_icons=true&theme=tokyonight&border_color=F86786&custom_title=Stats&hide_border=false" 
+         width="49%" alt="My GitHub Stats were once here..." />
+  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=roma-marshall&show_icons=true&theme=buefy&border_color=F86786&custom_title=Stats&hide_border=false" 
+         width="49%" alt="My GitHub Stats were once here..." />
+  </a>
+</p>
+</details>
 
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-marshall&layout=compact&theme=light&langs_count=6">
--->
+---
 
+<details open>
+  <summary><h2>🌐 Things I believe</h2></summary>
+  <p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1500&color=1D6685&weight=500&size=22&width=1550&lines=+The+most+important+thing+is+to+be+able+to+distinguish+the+most+important+from+everything+else.;Sometimes+%E2%80%9Cnothing%E2%80%9D+is+better+than+%E2%80%9Csomething%E2%80%9D.;Everything+can+be+done+quickly.+Contrary+to+popular+belief%2C+work+is+either+done+quickly+and+well+or+long+and+badly." alt="Typing SVG" /></a>
+  </p>
+</details>
 
-## key skills:
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-#
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&width=1050&lines=The+most+important+thing+is+to+be+able+to+distinguish+the+most+important+from+everything+else;Sometimes+%E2%80%9Cnothing%E2%80%9D+is+better+than+%E2%80%9Csomething%E2%80%9D;Everything+can+be+done+quickly.+Contrary+to+popular+belief%2C+work+is+either+done+quickly+and+well+or+long+and+badly)](https://git.io/typing-svg)
+![wave](https://user-images.githubusercontent.com/82146140/177694992-9277afcb-e818-4712-b2a9-ab167d718991.svg)
