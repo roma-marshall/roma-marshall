@@ -27,8 +27,9 @@
     <code><a href="https://www.figma.com/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a></code>
     <code><a href="https://firebase.google.com/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
     <code><a href="https://vitejs.dev/" target="_blank"><img width="4%" src="https://github.com/detain/svg-logos/blob/master/svg/v/vitejs.svg"></a></code>
+    <code><a href="https://webpack.js.org/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"></a></code>
     <code><a href="https://www.npmjs.com/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></a></code>
-    <code><a href="https://getcomposer.org" target="_blank"><img width="4%" src="https://github.com/detain/svg-logos/blob/master/svg/c/composer.svg"></a></code> 
+    <code><a href="https://getcomposer.org/" target="_blank"><img width="4%" src="https://github.com/detain/svg-logos/blob/master/svg/c/composer.svg"></a></code> 
     <code><a href="https://www.docker.com/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>  
   </p>
 </details>
