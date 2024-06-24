@@ -18,15 +18,12 @@
     <code><a href="https://vuejs.org/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></a></code>
     <code><a href="https://tailwindcss.com/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></a></code>
     <code><a href="https://pinia.vuejs.org/" target="_blank"><img width="4%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/pinia.svg"></a></code>
+    <code><a href="https://vitejs.dev/" target="_blank"><img width="4%" src="https://github.com/detain/svg-logos/blob/master/svg/v/vitejs.svg"></a></code>
+    <code><a href="https://firebase.google.com/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
     <code><a href="https://jestjs.io/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"></a></code>
     <code><a href="https://react.dev/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-    <code><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></a></code>
-    <code><a href="https://sass-lang.com/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></a></code>
-    <code><a href="https://www.figma.com/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a></code>
-    <code><a href="https://firebase.google.com/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-    <code><a href="https://vitejs.dev/" target="_blank"><img width="4%" src="https://github.com/detain/svg-logos/blob/master/svg/v/vitejs.svg"></a></code>
+    <code><a href="https://soliditylang.org/" target="_blank"><img width="4%" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg"></a></code>
     <code><a href="https://webpack.js.org/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"></a></code>
     <code><a href="https://www.npmjs.com/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></a></code>
     <code><a href="https://getcomposer.org/" target="_blank"><img width="4%" src="https://github.com/detain/svg-logos/blob/master/svg/c/composer.svg"></a></code> 
