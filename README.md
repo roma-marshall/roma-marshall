@@ -13,7 +13,7 @@
 ---
 
 <details open>
-  <summary><h2>🛠 Skills and Tools</h2></summary>
+  <summary><h2>🎯 Key Skills</h2></summary>
   <p align="center">
     <code><a href="https://vuejs.org/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></a></code>
     <code><a href="https://tailwindcss.com/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></a></code>
