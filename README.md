@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=500&size=22&duration=3000&pause=500&color=1D6685&center=false&multiline=true&width=650&height=140&lines=%24+whoiam;->+Frontend+Developer;->+Experienced+UI/UX+Designer;->+6++years+of+coding+experience;->+Open-Source+contributor" alt="Spotify GitHub Profile" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=500&size=22&duration=3000&pause=500&color=1D6685&center=false&multiline=true&width=650&height=140&lines=%24+whoiam;->+frontend+developer;->+web3/dapps+builder;->+7++years+of+coding+experience;->+open-source+contributor" alt="GitHub Profile" />
   </a>
 </div>
 
