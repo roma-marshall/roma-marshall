@@ -25,8 +25,6 @@
     <code><a href="https://jestjs.io/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"></a></code>
     <code><a href="https://react.dev/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
     <code><a href="https://soliditylang.org/" target="_blank"><img width="4%" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg"></a></code>
-    <code><a href="https://webpack.js.org/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"></a></code>
-    <code><a href="https://www.npmjs.com/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></a></code>
     <code><a href="https://getcomposer.org/" target="_blank"><img width="4%" src="https://github.com/detain/svg-logos/blob/master/svg/c/composer.svg"></a></code> 
     <code><a href="https://www.docker.com/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>  
   </p>
