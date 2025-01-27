@@ -16,6 +16,7 @@
   <summary><h2>🎯 Key Skills</h2></summary>
   <p align="center">
     <code><a href="https://vuejs.org/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></a></code>
+    <code><a href="https://nuxt.com/" target="_blank"><img width="4%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/nuxt.svg"></a></code>
     <code><a href="https://tailwindcss.com/" target="_blank"><img width="4%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></a></code>
     <code><a href="https://pinia.vuejs.org/" target="_blank"><img width="4%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/pinia.svg"></a></code>
     <code><a href="https://vitejs.dev/" target="_blank"><img width="4%" src="https://github.com/detain/svg-logos/blob/master/svg/v/vitejs.svg"></a></code>
