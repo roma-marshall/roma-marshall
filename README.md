@@ -15,18 +15,18 @@
 <details open>
   <summary><h2>🎯 Key Skills</h2></summary>
   <p align="center">
-    <code><a href="https://vuejs.org/" target="_blank"><img width="6%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></a></code>
-    <code><a href="https://nuxt.com/" target="_blank"><img width="6%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/nuxt.svg"></a></code>
-    <code><a href="https://tailwindcss.com/" target="_blank"><img width="6%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></a></code>
-    <code><a href="https://pinia.vuejs.org/" target="_blank"><img width="6%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/pinia.svg"></a></code>
-    <code><a href="https://vitejs.dev/" target="_blank"><img width="6%" src="https://github.com/detain/svg-logos/blob/master/svg/v/vitejs.svg"></a></code>
-    <code><a href="https://firebase.google.com/" target="_blank"><img width="6%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"><img width="6%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
-    <code><a href="https://jestjs.io/" target="_blank"><img width="6%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"></a></code>
-    <code><a href="https://react.dev/" target="_blank"><img width="6%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-    <code><a href="https://soliditylang.org/" target="_blank"><img width="6%" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg"></a></code>
-    <code><a href="https://getcomposer.org/" target="_blank"><img width="6%" src="https://github.com/detain/svg-logos/blob/master/svg/c/composer.svg"></a></code> 
-    <code><a href="https://www.docker.com/" target="_blank"><img width="6%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>  
+    <code><a href="https://vuejs.org/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></a></code>
+    <code><a href="https://nuxt.com/" target="_blank"><img width="5%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/nuxt.svg"></a></code>
+    <code><a href="https://tailwindcss.com/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></a></code>
+    <code><a href="https://pinia.vuejs.org/" target="_blank"><img width="5%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/pinia.svg"></a></code>
+    <code><a href="https://vitejs.dev/" target="_blank"><img width="5%" src="https://github.com/detain/svg-logos/blob/master/svg/v/vitejs.svg"></a></code>
+    <code><a href="https://firebase.google.com/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
+    <code><a href="https://jestjs.io/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"></a></code>
+    <code><a href="https://react.dev/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
+    <code><a href="https://soliditylang.org/" target="_blank"><img width="5%" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg"></a></code>
+    <code><a href="https://getcomposer.org/" target="_blank"><img width="5%" src="https://github.com/detain/svg-logos/blob/master/svg/c/composer.svg"></a></code> 
+    <code><a href="https://www.docker.com/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>  
   </p>
 </details>
 
