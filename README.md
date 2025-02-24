@@ -13,7 +13,7 @@
 ---
 
 <details open>
-  <summary><h2>🎯 Key Skills</h2></summary>
+  <summary><h2>👨🏼‍💻 Tech stack</h2></summary>
   <p align="center">
     <code><a href="https://vuejs.org/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></a></code>
     <code><a href="https://nuxt.com/" target="_blank"><img width="5%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/nuxt.svg"></a></code>
