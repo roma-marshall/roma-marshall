@@ -16,9 +16,9 @@
   <summary><h2>👨🏼‍💻 Tech stack</h2></summary>
   <p align="center">
     <code><a href="https://vuejs.org/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></a></code>
-    <code><a href="https://nuxt.com/" target="_blank"><img width="5%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/nuxt.svg"></a></code>
+    <code><a href="https://nuxt.com/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></a></code>
     <code><a href="https://tailwindcss.com/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></a></code>
-    <code><a href="https://pinia.vuejs.org/" target="_blank"><img width="5%" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/pinia.svg"></a></code>
+    <code><a href="https://pinia.vuejs.org/" target="_blank"><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/638px-Pinialogo.svg.png?20230117192606"></a></code>
     <code><a href="https://vitejs.dev/" target="_blank"><img width="5%" src="https://github.com/detain/svg-logos/blob/master/svg/v/vitejs.svg"></a></code>
     <code><a href="https://firebase.google.com/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
