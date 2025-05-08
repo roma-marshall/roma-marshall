@@ -17,7 +17,7 @@
   <p align="center">
     <code><a href="https://vuejs.org/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/vue.svg"></a></code>
     <code><a href="https://nuxt.com/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/nuxt.svg"></a></code>
-    <code><a href="https://tailwindcss.com/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/tailwind"></a></code>
+    <code><a href="https://tailwindcss.com/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/tailwind.svg"></a></code>
     <code><a href="https://pinia.vuejs.org/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/pinia.svg"></a></code>
     <code><a href="https://vitejs.dev/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/vite.svg"></a></code>
     <code><a href="https://firebase.google.com/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/firebase.svg"></a></code>
