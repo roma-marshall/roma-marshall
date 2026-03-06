@@ -36,25 +36,37 @@
 <summary><h2>🔥 Stats</h2></summary>
 <p align="center">
 
+
+ <a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=roma-marshall&layout=compact&theme=tokyonight" taret="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=roma-marshall&layout=compact&theme=tokyonight" 
+         width="37%" alt="Favorite Languages" />
+ </a>
+  <a href="https://github-readme-stats-fast.vercel.app/api?username=roma-marshall&show_icons=true&theme=tokyonight" taret="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=roma-marshall&show_icons=true&theme=tokyonight" 
+         width="49%" alt="Favorite Languages" />
+ </a>
+ 
+
   <!-- Most Used Langs -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" taret="_blank" rel="noopener noreferrer">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" taret="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-marshall&layout=compact&theme=tokyonight&border_color=F86786&langs_count=8&custom_title=Most+Used+Languages&hide_border=false" 
          width="33%" alt="Favorite Languages" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" taret="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-marshall&layout=compact&theme=buefy&border_color=F86786&langs_count=8&custom_title=Most+Used+Languages&hide_border=false" 
          width="33%" alt="Favorite Languages" />
-  </a>
+  </a> -->
 
   <!-- Github Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=roma-marshall&show_icons=true&theme=tokyonight&border_color=F86786&custom_title=Stats&hide_border=false" 
          width="49%" alt="My GitHub Stats were once here..." />
   </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=roma-marshall&show_icons=true&theme=buefy&border_color=F86786&custom_title=Stats&hide_border=false" 
          width="49%" alt="My GitHub Stats were once here..." />
-  </a>
+  </a> -->
+  
 </p>
 </details>
 
