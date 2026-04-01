@@ -22,6 +22,8 @@
     <code><a href="https://vitejs.dev/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/vite.svg"></a></code>
     <code><a href="https://firebase.google.com/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/firebase.svg"></a></code>
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/javascript.svg"></a></code>
+    <code><a href="https://nodejs.org/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/nodejs.svg"></a></code>
+    <code><a href="https://www.postgresql.org/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/postgresql.svg"></a></code>
     <code><a href="https://jestjs.io/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/jest.svg"></a></code>
     <code><a href="https://hardhat.org/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/hardhat.svg"></a></code>
     <code><a href="https://soliditylang.org/" target="_blank"><img width="3%" src="https://raw.githubusercontent.com/roma-marshall/logos/refs/heads/main/solidity.svg"></a></code>
